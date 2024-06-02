@@ -1,4 +1,6 @@
-/* Design a program that takes an array of integers as input. The program should find the second smallest and second largest numbers in the array. If the second smallest number is even, add 2 to it. if it's odd, subtract 2. Similarly, if the second largest number is even, double it. if it's odd, halve it. Finally, print the modified array.
+/* Design a program that takes an array of integers as input. The program should find the second smallest and second largest numbers in the array.
+If the second smallest number is even, add 2 to it. if it's odd, subtract 2. Similarly, if the second largest number is even, double it.
+if it's odd, halve it. Finally, print the modified array.
 */
 #include <stdio.h>
 #include <limits.h>
